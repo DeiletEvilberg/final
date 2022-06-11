@@ -5,7 +5,7 @@ const spider = document.querySelector('.spider');
 function scarysound(){
     const audio = new Audio();
     audio.preload = 'auto';
-    audio.src ='../img/mostr.mp3';
+    audio.src ='../img/monstr.mp3';
     audio.play();
 }
 
